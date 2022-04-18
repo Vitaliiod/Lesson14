@@ -1,0 +1,26 @@
+.bg-slider {
+    background-image: url(https://wallpaperaccess.com/full/1348233.jpg);
+    background-repeat: no repeat;
+    height: 50vh;
+}
+
+.service {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.media {
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    margin-top: 10px;
+    background-color: azure;
+}
+
+.media img {
+    width: 30%;
+    height: fit-content;
+    margin-right: 10px;
+}
